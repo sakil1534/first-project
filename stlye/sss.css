@@ -1,0 +1,10 @@
+.htag{
+text-align: center;
+color: red;
+background-color: aqua;
+margin: 50px;
+padding: 10px;
+border-radius: 50px;
+border: 2px solid black;
+box-shadow: 10px 10px 10px blueviolet;
+}
